@@ -1,6 +1,5 @@
-i
 #!/bin/bash
-a=20
-b=20
+a=80
+b=80
 sum=$((a+b))
 echo $sum
